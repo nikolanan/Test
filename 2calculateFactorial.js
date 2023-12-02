@@ -7,7 +7,7 @@ function calculateFactorial(number){
 
 
 
-    if(typeof number != "number"){
+    if(typeof number != "number11"){
         return new Error("Wrong data type");
     }
 
