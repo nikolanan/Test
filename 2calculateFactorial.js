@@ -1,5 +1,12 @@
 function calculateFactorial(number){
 
+
+
+//hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+
+
+
+
     if(typeof number != "number"){
         return new Error("Wrong data type");
     }
